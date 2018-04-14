@@ -5,6 +5,16 @@
 >> 本项目旨在利用小程序平台实现一个前后端分离的扫码点餐小程序。
 ---
 
+## 任务发布
+- [项目进度发布](https://givemefive-sysu.github.io/Dashboard/)
+---
+
+
+## 项目地址
+- [github前端仓库地址](https://github.com/GiveMeFive-SYSU/XiaoEr)
+- [github后端仓库地址](https://github.com/GiveMeFive-SYSU/XiaoEr) 
+---
+
 
 ## team profile
 
@@ -39,18 +49,19 @@
 - [产品特性]()
 ---
 
+## Requirement specification（需求规格说明）
+- Usecase Diagram
+
+## Design（设计）
+- UI design
+    - 扫码点餐 用例 UI设计
+
+## 生产规范与指南
+- 开发代码规范
+
+
 ## meet_recording
 - [2018/3/24 会议记录](./meet_recording/2018-3-24.md)
-
-## 任务发布
-- [项目进度发布](https://givemefive-sysu.github.io/Dashboard/)
----
-
-
-## 项目地址
-- [github前端仓库地址](https://github.com/GiveMeFive-SYSU/XiaoEr)
-- [github后端仓库地址](https://github.com/GiveMeFive-SYSU/XiaoEr) 
----
 
 
 ## 成员报告
