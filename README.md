@@ -12,8 +12,8 @@
 - 团队目标 ：制作方便快捷的点餐程序
 - 团队成员清单
     - 队长：
-    - 任嘉昕（15331265）
-        - 职责：项目经理，后台开发
+        - 任嘉昕（15331265）
+            - 职责：项目经理，后台开发
     - 队员：
         - 潘垚鑫
             - 职责：技术经理，后台开发，数据库开发
@@ -26,7 +26,7 @@
         - 林润清
             - 职责：前端开发，测试
 - 团队管理地址： 
-- [Tower主页](https://tower.im/projects/db1e1479542b44fba0f32f1e8d2426c6/)
+    - [Tower主页](https://tower.im/projects/db1e1479542b44fba0f32f1e8d2426c6/)
 ---
 
 ## Investigation & Vision
@@ -40,7 +40,7 @@
 ---
 
 ## meet_recording
-- [2018/3/24 会议记录]()
+- [2018/3/24 会议记录](./meet_recording/2018-3-24.md)
 
 ## 任务发布
 - [项目进度发布](https://givemefive-sysu.github.io/Dashboard/)
