@@ -54,7 +54,9 @@
 
 ## Design（设计）
 - UI design
-    - 扫码点餐 用例 UI设计
+    - 扫码点餐
+        - [用例](./doc/use_case/readme.md)
+        - UI设计
 
 ## 生产规范与指南
 - 开发代码规范
