@@ -54,5 +54,5 @@
 
 
 ## 成员报告
-- [任嘉昕-nodejs后台技术报告]()
-- 
+- [任嘉昕-nodejs后台技术报告](http://jiaxin.online/2018/04/14/nodejs%E5%AD%A6%E4%B9%A01/)
+
