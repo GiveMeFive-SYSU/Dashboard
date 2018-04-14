@@ -6,13 +6,13 @@
 ---
 
 ## 任务发布
-- [项目进度发布](https://givemefive-sysu.github.io/Dashboard/)
+- [项目进度发布和成员工作情况](https://givemefive-sysu.github.io/Dashboard/)
 ---
 
 
 ## 项目地址
-- [github前端仓库地址](https://github.com/GiveMeFive-SYSU/XiaoEr)
-- [github后端仓库地址](https://github.com/GiveMeFive-SYSU/XiaoEr) 
+- [github前端仓库地址](https://github.com/GiveMeFive-SYSU/xiaoerFrontEnd)
+- [github后端仓库地址](https://github.com/GiveMeFive-SYSU/xiaoerBackEnd)
 ---
 
 
