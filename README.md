@@ -40,8 +40,8 @@
 ---
 
 ## Investigation & Vision
-- [调研报告]()
-- [项目愿景]()
+- [调研报告](./doc/Investigation/调研报告.pdf)
+- [项目愿景](./doc/Vision/项目愿景.pdf)
 ---
 
 
