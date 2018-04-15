@@ -1,4 +1,4 @@
-# Dashboard
+﻿# Dashboard
 
 ## About
 
@@ -70,3 +70,4 @@
 - [任嘉昕-nodejs后台技术报告](http://jiaxin.online/2018/04/14/nodejs%E5%AD%A6%E4%B9%A01/)
 - [潘垚鑫- MySQL后台技术报告](https://blog.csdn.net/qq_33268231/article/details/79941607)
 - [刘俊良- Vuejs技术报告](https://blog.csdn.net/weixin_39629939/article/details/79949049)
+- [陆冠兴- 小程序技术报告](http://luguanxing.online:8080/blog/blogtype/%E5%B0%8F%E7%A8%8B%E5%BA%8F.html)
