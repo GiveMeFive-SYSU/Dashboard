@@ -69,4 +69,4 @@
 ## 成员报告
 - [任嘉昕-nodejs后台技术报告](http://jiaxin.online/2018/04/14/nodejs%E5%AD%A6%E4%B9%A01/)
 - [潘垚鑫- MySQL后台技术报告](https://blog.csdn.net/qq_33268231/article/details/79941607)
-
+- [刘俊良- Vuejs技术报告](https://blog.csdn.net/weixin_39629939/article/details/79949049)
