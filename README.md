@@ -53,11 +53,11 @@
 
 ## Requirement specification（需求规格说明）
 - Usecase Diagram
+    - [用例](./doc/use_case/readme.md)
 
 ## Design（设计）
 - UI design
     - 扫码点餐
-        - [用例](./doc/use_case/readme.md)
         - UI设计
 
 ## 生产规范与指南
