@@ -1,22 +1,22 @@
 ﻿﻿# Dashboard
 
-## About
+## 1 About
 
 >> 本项目旨在利用小程序平台实现一个前后端分离的扫码点餐小程序。
 ---
 
-## 任务发布
+## 1.1 任务发布
 - [项目进度发布和成员工作情况](https://givemefive-sysu.github.io/Dashboard/)
 ---
 
 
-## 项目地址
+## 1.2 项目地址
 - [github前端仓库地址](https://github.com/GiveMeFive-SYSU/xiaoerFrontEnd)
 - [github后端仓库地址](https://github.com/GiveMeFive-SYSU/xiaoerBackEnd)
 ---
 
 
-## team profile
+## 2 team profile
 
 - 团队名称 : Give Me Five
 - 团队目标 ：制作方便快捷的点餐程序
@@ -35,33 +35,34 @@
             - 职责：前端开发
         - 陆冠兴
             - 职责：小程序开发
-        - 林润清
+        - 林润清 (15331203)
             - 职责：前端开发，测试
 - 团队管理地址： 
     - [Tower主页](https://tower.im/projects/db1e1479542b44fba0f32f1e8d2426c6/)
 ---
 
-## Investigation & Vision
+## 3&4 Investigation & Vision
 - [调研报告](./doc/Investigation/调研报告.pdf)
 - [项目愿景](./doc/Vision/项目愿景.pdf)
 ---
 
 
-## Product Backlog
-- [产品特性]()
+## 5 Product Backlog
+- [产品特性](./doc/Feature/产品特性.pdf)
 ---
 
-## Requirement specification（需求规格说明）
-- Usecase Diagram
-    - [用例](./doc/use_case/readme.md)
+## 6 Requirement specification（需求规格说明）
+- 6.1 Usecase Diagram
+    - [用例图](./doc/use_case_diagram/readme.md)
+- 6.2 Use Cases(用例)
+    - 
 
 ## Design（设计）
-- UI design
-    - 扫码点餐
-        - UI设计
+- 7.1 UI design
+    - 扫码点餐用例UI设计 ()
 
-## 生产规范与指南
-- 开发代码规范
+## 8. 生产规范与指南
+- 开发代码规范 (./doc/codingDoc/readme.md)
 
 
 ## meet_recording
