@@ -54,15 +54,17 @@
 ## 6 Requirement specification（需求规格说明）
 - 6.1 Usecase Diagram
     - [用例图](./doc/use_case_diagram/readme.md)
-- 6.2 Use Cases(用例)
+- 6.2 [Use Cases](./doc/use_case/readme.md)
     - 
 
 ## Design（设计）
 - 7.1 UI design
-    - 扫码点餐用例UI设计 ()
+    - 扫码点餐用例UI设计
 
 ## 8. 生产规范与指南
-- [开发代码规范](./doc/codingDoc/readme.md)
+- [js 开发代码规范](./doc/codingDoc/readme.md)
+- [css 开发规范](http://www.css88.com/archives/5505)
+- [Html 规范](http://www.css88.com/archives/5364)
 
 
 ## meet_recording
