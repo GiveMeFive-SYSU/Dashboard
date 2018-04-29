@@ -62,7 +62,7 @@
     - 扫码点餐用例UI设计 ()
 
 ## 8. 生产规范与指南
-- 开发代码规范 (./doc/codingDoc/readme.md)
+- [开发代码规范](./doc/codingDoc/readme.md)
 
 
 ## meet_recording
