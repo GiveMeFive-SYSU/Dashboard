@@ -73,7 +73,7 @@
     - 7.2.2 XX子系统数据课设计
     - 7.2.3 第三方数据评审结果
 - 7.3  API 设计
-    - [点餐API使用样例说明](https://github.com/GiveMeFive-SYSU/xiaoerBackEnd/docs/API.pdf)
+    - [点餐API使用样例说明](https://github.com/GiveMeFive-SYSU/xiaoerBackEnd/doc/API.pdf)
 
 ## 8. 生产规范与指南
 - 8.1 前后端代码规范
