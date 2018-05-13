@@ -66,6 +66,8 @@
 - [css 开发规范](http://www.css88.com/archives/5505)
 - [Html 规范](http://www.css88.com/archives/5364)
 
+## 建模练习
+- [有鱼记账APP业务描述](./doc/ModelingPractice/XX1-有鱼记账APP业务描述.pdf)
 
 ## meet_recording
 - [2018/3/24 会议记录](./meet_recording/2018-3-24.md)
@@ -74,7 +76,7 @@
 
 ## 成员报告
 - [15331265-任嘉昕-nodejs后台技术报告](http://jiaxin.online/2018/04/14/nodejs%E5%AD%A6%E4%B9%A01/)
-- [15331249-潘垚鑫- MySQL后台技术报告](https://blog.csdn.net/qq_33268231/article/details/79941607)
-- [刘俊良- Vuejs技术报告](https://blog.csdn.net/weixin_39629939/article/details/79949049)
-- [陆冠兴- 小程序技术报告](http://luguanxing.online:8080/blog/blogtype/%E5%B0%8F%E7%A8%8B%E5%BA%8F.html)
-- [15331203-林润清-Tensorflow技术报告](https://blog.csdn.net/qq_40143611/article/details/79964127)
+- [15331249-Yoshipark- MySQL后台技术报告](https://blog.csdn.net/qq_33268231/article/details/79941607)
+- [Ken-reddevil- Vuejs技术报告](https://blog.csdn.net/weixin_39629939/article/details/79949049)
+- [luguanxing- 小程序技术报告](http://luguanxing.online:8080/blog/blogtype/%E5%B0%8F%E7%A8%8B%E5%BA%8F.html)
+- [15331203-Arim-Lin-Tensorflow技术报告](https://blog.csdn.net/qq_40143611/article/details/79964127)
