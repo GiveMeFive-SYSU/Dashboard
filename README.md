@@ -63,7 +63,6 @@
 - 6.5 System Sequence Diagram(功能模型)
     - [15331265-jiaxin96-商家注册](./doc/system_sequence_diagram/register.png)
     - [15331265-jiaxin96-商家登录](./doc/system_sequence_diagram/login.png)
-    - 
 
 ## Design（设计）
 - 7.1 UI design
@@ -88,8 +87,11 @@
 - [2018/4/17 会议记录](./meet_recording/2018-4-17.md)
 
 
-## 建模练习
+## 建模练习 （外组）
 - [有鱼记账APP业务描述](./doc/ModelingPractice/XX1-有鱼记账APP业务描述.pdf)
+
+## 建模报告 （本组）
+- [15331265-jiaxin96](./doc/midTest/rjx.pdf)
 
 ## 成员报告
 - [15331265-jiaxin96-nodejs后台技术报告](http://jiaxin.online/2018/04/14/nodejs%E5%AD%A6%E4%B9%A01/)
