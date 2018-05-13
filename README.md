@@ -54,25 +54,40 @@
 ## 6 Requirement specification（需求规格说明）
 - 6.1 Usecase Diagram
     - [用例图](./doc/use_case_diagram/readme.md)
-- 6.2 [Use Cases](./doc/use_case/readme.md)
+- 6.2 Use Cases
+    - [Use Cases](./doc/use_case/readme.md)
+- 6.3 Domian Model（领域模型）
+    - [Domian Model]()
+- 6.4 State Model（状态模型）
+    - [State Model]()
+- 6.5 System Sequence Diagram（功能模型）
     - 
 
 ## Design（设计）
 - 7.1 UI design
     - 扫码点餐用例UI设计
+- 7.2 Database design
+    - 7.2.1 用户及权限系统数据库设计
+    - 7.2.2 XX子系统数据课设计
+    - 7.2.3 第三方数据评审结果
+- 7.3  API 设计
+    - [点餐API使用样例说明]()
 
 ## 8. 生产规范与指南
-- [js 开发代码规范](./doc/codingDoc/readme.md)
-- [css 开发规范](http://www.css88.com/archives/5505)
-- [Html 规范](http://www.css88.com/archives/5364)
-
-## 建模练习
-- [有鱼记账APP业务描述](./doc/ModelingPractice/XX1-有鱼记账APP业务描述.pdf)
+- 8.1 前后端代码规范
+    - [js 开发代码规范](./doc/codingDoc/readme.md)
+    - [css 开发规范](http://www.css88.com/archives/5505)
+    - [Html 规范](http://www.css88.com/archives/5364)
+- 8.2 REST API 设计规范
+    - [REST API 设计规范](http://jiaxin.online/2018/04/14/nodejs%E5%AD%A6%E4%B9%A01/)
 
 ## meet_recording
 - [2018/3/24 会议记录](./meet_recording/2018-3-24.md)
 - [2018/4/17 会议记录](./meet_recording/2018-4-17.md)
 
+
+## 建模练习
+- [有鱼记账APP业务描述](./doc/ModelingPractice/XX1-有鱼记账APP业务描述.pdf)
 
 ## 成员报告
 - [15331265-jiaxin96-nodejs后台技术报告](http://jiaxin.online/2018/04/14/nodejs%E5%AD%A6%E4%B9%A01/)
