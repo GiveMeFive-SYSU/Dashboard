@@ -92,6 +92,7 @@
 
 ## 建模报告 （本组）
 - [15331265-jiaxin96](./doc/midTest/rjx.pdf)
+- [15331249-Yoshipark](./doc/midTest/pyx.pdf)
 
 ## 成员报告
 - [15331265-jiaxin96-nodejs后台技术报告](http://jiaxin.online/2018/04/14/nodejs%E5%AD%A6%E4%B9%A01/)
