@@ -62,7 +62,7 @@
     - [State Model]()
 - 6.5 System Sequence Diagram(功能模型)
     - [15331265-jiaxin96-商家注册](./doc/system_sequence_diagram/register.png)
-    - [15331265-jiaxin96-商家登录](./doc/system_sequence_diagram/login.md)
+    - [15331265-jiaxin96-商家登录](./doc/system_sequence_diagram/login.png)
     - 
 
 ## Design（设计）
