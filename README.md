@@ -61,6 +61,7 @@
 - 6.4 State Model（状态模型）
     - [State Model]()
 - 6.5 System Sequence Diagram（功能模型）
+    - [商家注册](./doc/system_sequence _diagram/register.png)
     - 
 
 ## Design（设计）
