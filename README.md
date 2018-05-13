@@ -61,7 +61,9 @@
 - 6.4 State Model（状态模型）
     - [State Model]()
 - 6.5 System Sequence Diagram(功能模型)
-    - [SSD](./doc/system_sequence_diagram/register.png)
+    - [15331265-jiaxin96-商家注册](./doc/system_sequence_diagram/register.png)
+    - [15331265-jiaxin96-商家登录](./doc/system_sequence_diagram/login.md)
+    - 
 
 ## Design（设计）
 - 7.1 UI design
