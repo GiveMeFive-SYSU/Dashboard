@@ -59,7 +59,7 @@
 - 6.3 Domian Model（领域模型）
     - [Domian Model]()
 - 6.4 State Model（状态模型）
-    - [State Model]()
+    - [State Model](https://github.com/GiveMeFive-SYSU/Dashboard/blob/master/doc/models/state_model.png)
 - 6.5 System Sequence Diagram(功能模型)
     - [15331265-jiaxin96-商家注册](./doc/system_sequence_diagram/register.png)
     - [15331265-jiaxin96-商家登录](./doc/system_sequence_diagram/login.png)
