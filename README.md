@@ -57,7 +57,7 @@
 - 6.2 Use Cases
     - [Use Cases](./doc/use_case/readme.md)
 - 6.3 Domian Model（领域模型）
-    - [Domian Model]()
+    - [Domian Model](https://github.com/GiveMeFive-SYSU/Dashboard/blob/master/doc/models/Domian%20Model.png)
 - 6.4 State Model（状态模型）
     - [State Model](https://github.com/GiveMeFive-SYSU/Dashboard/blob/master/doc/models/state_model.png)
 - 6.5 System Sequence Diagram(功能模型)
