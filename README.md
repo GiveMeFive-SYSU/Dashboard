@@ -63,7 +63,8 @@
 - 6.5 System Sequence Diagram(功能模型)
     - [15331265-jiaxin96-商家注册](./doc/system_sequence_diagram/register.png)
     - [15331265-jiaxin96-商家登录](./doc/system_sequence_diagram/login.png)
-    - [15331028-cxdris-商家登录](./doc/system_sequence_diagram/Cuisine_Management.png)
+    - [15331028-cxdris-菜系管理](./doc/system_sequence_diagram/Cuisine_Management.png)
+    - [15331028-cxdris-菜品管理](./doc/system_sequence_diagram/Dish_Management.png)
     - [15331215-Ken-reddevil-桌位管理](./doc/system_sequence_diagram/table_management.png)
 
 ## Design（设计）
