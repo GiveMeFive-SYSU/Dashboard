@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.1.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>40</x>
+      <y>260</y>
+      <w>150</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Business_Credictcard
+--
+_Username_
+Cardnumber
+Cardholder
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>290</x>
+      <y>260</y>
+      <w>110</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Business_info
+--
+_Username_
+Password
+Shopname
+Tablenum
+Phonenum</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>180</x>
+      <y>270</y>
+      <w>130</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..n
+m2=0..1
+&lt; has</panel_attributes>
+    <additional_attributes>10.0;20.0;110.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>410</x>
+      <y>60</y>
+      <w>110</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>Business_dish
+--
+_Username_
+_Dishname_
+DishOldprice
+Dishprice
+Dishtype
+Dishimage
+Dishicon
+Dishinfo
+Dishdescription</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>330</x>
+      <y>90</y>
+      <w>100</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..1
+m2=0..n
+has &gt;</panel_attributes>
+    <additional_attributes>10.0;170.0;10.0;10.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>390</x>
+      <y>270</y>
+      <w>140</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..1
+m2=0..n
+recieve &gt;</panel_attributes>
+    <additional_attributes>10.0;20.0;120.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>510</x>
+      <y>260</y>
+      <w>110</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Business_order
+--
+_Username_
+_Ordernumber_
+Ordertime
+Tablenumber
+Price</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>610</x>
+      <y>270</y>
+      <w>160</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..1
+m2=0..n
+has &gt;</panel_attributes>
+    <additional_attributes>10.0;20.0;140.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>750</x>
+      <y>260</y>
+      <w>130</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>Business_ordertail
+--
+_Username_
+_Ordernumber_
+Dishname
+Tastenote
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>620</x>
+      <y>420</y>
+      <w>130</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Business_table
+--
+_Username_
+Tablenumber
+QRCode
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>330</x>
+      <y>360</y>
+      <w>310</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..n
+m2=0..1
+has &gt;</panel_attributes>
+    <additional_attributes>290.0;90.0;10.0;90.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>510</x>
+      <y>90</y>
+      <w>370</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..1
+m2=0..1
+&lt; has</panel_attributes>
+    <additional_attributes>310.0;170.0;310.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>550</x>
+      <y>360</y>
+      <w>90</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..1
+m2=0..1
+has &gt;</panel_attributes>
+    <additional_attributes>70.0;70.0;10.0;70.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>740</x>
+      <y>350</y>
+      <w>120</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=0..1
+m2=0..1
+&lt; has</panel_attributes>
+    <additional_attributes>10.0;100.0;80.0;100.0;80.0;10.0</additional_attributes>
+  </element>
+</diagram>
