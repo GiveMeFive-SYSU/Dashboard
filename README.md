@@ -85,6 +85,9 @@
 - 8.2 REST API 设计规范
     - [REST API 设计规范](http://jiaxin.online/2018/04/14/nodejs%E5%AD%A6%E4%B9%A01/)
 
+## X3 Final Report
+- [15331249-Yoshipark-Final Report](./FinalProject/15331249_FinalReport.pdf)
+
 ## meet_recording
 - [2018/3/24 会议记录](./meet_recording/2018-3-24.md)
 - [2018/4/17 会议记录](./meet_recording/2018-4-17.md)
