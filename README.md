@@ -3,7 +3,7 @@
 
 ## 成员及其分工
 
-团队成员及角色：
+<!-- 团队成员及角色：
 
 | 学号     | 姓名   | 角色                             |
 | -------- | ------ | -------------------------------- |
@@ -13,13 +13,15 @@
 | 15331228 | luguanxing | UI/UX设计师、前端工程师          |
 | 15331215 | Ken-reddevil | 前端工程师                       |
 | 15331028 | CXDris   | 客户经理、用户体验经理、前端开发 |
-| 15331203 | Arim-Lin | 测试                             |
+| 15331203 | Arim-Lin | 测试                             | -->
 
 
 * 1、About (01-about)（项目规划）
 >> 本项目旨在利用小程序平台实现一个前后端分离的扫码点餐小程序。
 * 2、[Team profile](02-team-profile)（团队组建）
+
 团队成员及角色：
+
 | 学号     | 姓名   | 角色                             |
 | -------- | ------ | -------------------------------- |
 | 15331265 | jiaxin96 | 项目经理、js工程师、后台架构     |
@@ -29,6 +31,7 @@
 | 15331215 | Ken-reddevil | 前端工程师                       |
 | 15331028 | CXDris   | 客户经理、用户体验经理、前端开发 |
 | 15331203 | Arim-Lin | 测试                             |
+
 * [3、Investigation（项目前期调研）](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/Investigation/调研报告.pdf)
 * [4、Vision（项目愿景）](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/Vision/项目愿景.pdf)
 * [5、Product Backlog （产品特性）](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/Feature/产品特性.pdf)
