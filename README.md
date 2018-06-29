@@ -46,7 +46,6 @@
         - [15331028-cxdris-菜系管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/Cuisine_Management.png)
         - [15331028-cxdris-菜品管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/Dish_Management.png)
         - [15331215-Ken-reddevil-桌位管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/table_management.png)
-
     - 6.6 Supplementary Requirements（补充需求）
 * 7、Design（设计）
 -    - 7.1 UI design
