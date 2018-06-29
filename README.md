@@ -40,13 +40,14 @@
 -   - [ 6.2 Use Cases（用例+活动图）](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/use_case/readme.md)
 -   - [ 6.3 Domian Models（领域模型）](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/models/Domian%20Model.png)
 -   - [ 6.4 State Models（状态模型）](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/models/State%20Model.png)
--   - [ 6.5 System Sequence Diagrams（功能模型）]
+-   - 6.5 System Sequence Diagrams（功能模型）
         - [15331265-jiaxin96-商家注册](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/register.png)
         - [15331265-jiaxin96-商家登录](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/login.png)
         - [15331028-cxdris-菜系管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/Cuisine_Management.png)
         - [15331028-cxdris-菜品管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/Dish_Management.png)
         - [15331215-Ken-reddevil-桌位管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/table_management.png)
-    -[ 6.6 Supplementary Requirements（补充需求）]
+
+    - 6.6 Supplementary Requirements（补充需求）
 * 7、Design（设计）
 -    - 7.1 UI design
         - XX 用例 UI设计
