@@ -73,8 +73,8 @@
 - 7.1 UI design
     - 扫码点餐用例UI设计
 - 7.2 Database design
-    - 7.2.1 用户及权限系统数据库设计
-    - 7.2.2 XX子系统数据课设计
+    - 7.2.1 [用户及权限系统数据库设计](./doc/Database_design.png)
+    - 7.2.2 [XX子系统数据课设计](./doc/Database_design.sql)
     - 7.2.3 第三方数据评审结果
 - 7.3  API 设计
     - [点餐API使用样例说明](https://github.com/GiveMeFive-SYSU/xiaoerBackEnd/blob/master/doc/API.pdf)
