@@ -82,4 +82,4 @@
     - [15331203-Arim-Lin-Tensorflow技术报告](https://blog.csdn.net/qq_40143611/article/details/79964127)
 * X3 **Final Report**
     - [15331249-Yoshipark-Final Report](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/FinalProject/15331249_FinalReport.pdf)
-    - [15331265-jiaxin96-Final Report](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/FinalProject/15331265.pdf)
+    - [15331265-jiaxin96-Final Report](./FinalProject/15331265.pdf)
