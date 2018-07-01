@@ -51,8 +51,8 @@
 -    - 7.1 UI design
         - XX 用例 UI设计
 -    - 7.2 Database design
-        - 7.2.1 用户及权限系统数据库设计
-        - 7.2.2 XX子系统数据课设计 
+        - 7.2.1 [用户及权限系统数据库设计](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/Database_design.png)
+        - 7.2.2 [XX子系统数据课设计](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/Database_design.sql)
         - 7.2.x 第三方数据评审结果
             - [有鱼记账APP业务描述](./doc/ModelingPractice/XX1-有鱼记账APP业务描述.pdf)
             - [15331265-jiaxin96](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/midTest/rjx.pdf)
@@ -81,4 +81,5 @@
     - [luguanxing- 小程序技术报告](http://luguanxing.online:8080/blog/blogtype/%E5%B0%8F%E7%A8%8B%E5%BA%8F.html)
     - [15331203-Arim-Lin-Tensorflow技术报告](https://blog.csdn.net/qq_40143611/article/details/79964127)
 * X3 **Final Report**
-    - [15331249-Yoshipark-Final Report](./FinalProject/15331249_FinalReport.pdf)
+    - [15331249-Yoshipark-Final Report](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/FinalProject/15331249_FinalReport.pdf)
+    - [15331265-jiaxin96-Final Report](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/FinalProject/15331265.pdf)
