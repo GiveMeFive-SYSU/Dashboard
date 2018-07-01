@@ -66,6 +66,7 @@
     - [15331028-cxdris-菜系管理](./doc/system_sequence_diagram/Cuisine_Management.png)
     - [15331028-cxdris-菜品管理](./doc/system_sequence_diagram/Dish_Management.png)
     - [15331215-Ken-reddevil-桌位管理](./doc/system_sequence_diagram/table_management.png)
+    - [15331211-liuby26-店铺名修改](./doc/15331211-liuby26-更改店铺名.png)
 - 6.6 Supplementary Requirements（补充需求）
     - [补充需求](./doc/supplementary_requirements/readme.md)
 
