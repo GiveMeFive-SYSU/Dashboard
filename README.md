@@ -79,7 +79,8 @@
     - 7.2.3 第三方数据评审结果
 - 7.3  API 设计
     - [点餐API使用样例说明](https://github.com/GiveMeFive-SYSU/xiaoerBackEnd/blob/master/doc/API.pdf)
-- 7.4 [Software Architecture Document](./doc/软件架构文档.pdf)
+- 7.4 Software Architecture Document
+    - [软件架构文档](./doc/软件架构文档.pdf)
 
 ## 8. 生产规范与指南
 - 8.1 前后端代码规范
