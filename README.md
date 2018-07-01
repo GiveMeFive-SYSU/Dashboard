@@ -92,6 +92,7 @@
 
 ## X3 Final Report
 - [15331249-Yoshipark-Final Report](./FinalProject/15331249_FinalReport.pdf)
+- [15331215-Ken-reddevil-Final Report](./FinalProject/15331215_FinalReport.pdf)
 
 ## meet_recording
 - [2018/3/24 会议记录](./meet_recording/2018-3-24.md)
