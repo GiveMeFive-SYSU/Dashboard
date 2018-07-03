@@ -59,7 +59,7 @@
             - [15331249-Yoshipark](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/midTest/pyx.pdf)
 -    - 7.3 API design
         - [点餐API使用样例说明](https://github.com/GiveMeFive-SYSU/xiaoerBackEnd/blob/master/doc/API.pdf)
--    - 7.4 Software Architecture Document
+-    - [7.4 Software Architecture Document](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/软件架构文档.pdf)
 -    - 7.5 Usecase design
          - 7.5.1 **xx case design**
 * 8、生产规范与指南
@@ -69,8 +69,8 @@
         - [Html 规范](http://www.css88.com/archives/5364)
 -    - 8.2 REST API 设计规范
         - [REST API 设计规范](http://jiaxin.online/2018/04/14/nodejs%E5%AD%A6%E4%B9%A01/)
-    - **8.3 逻辑架构到应用程序映射指南**
-    - **8.4 物理架构云上部署 dock-compose.yml 文件编写与使用**
+    - [8.3 逻辑架构到应用程序映射指南**](./arch/逻辑架构到应用程序映射指南.pdf)
+    - [8.4 物理架构云上部署 dock-compose.yml 文件编写与使用](./arch/docker-compose.md)
 * X1 meet_recording
     - [2018/3/24 会议记录](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/meet_recording/2018-3-24.md)
     - [2018/4/17 会议记录](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/meet_recording/2018-4-17.md)
