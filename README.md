@@ -47,9 +47,11 @@
         - [15331028-cxdris-菜品管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/Dish_Management.png)
         - [15331215-Ken-reddevil-桌位管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/table_management.png)
     - 6.6 Supplementary Requirements（补充需求）
+        - * 点餐的时候需要添加食物备注
+        - * 底部添加广告栏
 * 7、Design（设计）
 -    - 7.1 UI design
-        - XX 用例 UI设计
+        - [UI设计](./UI/UI.pdf)
 -    - 7.2 Database design
         - 7.2.1 [用户及权限系统数据库设计](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/Database_design.png)
         - 7.2.2 [XX子系统数据课设计](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/Database_design.sql)
