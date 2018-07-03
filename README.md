@@ -5,6 +5,7 @@
 
 [项目演示](./UI/gif.md)
 
+
 * 1、About (01-about)（项目规划）
 >> 本项目旨在利用小程序平台实现一个前后端分离的扫码点餐小程序。
 * 2、[Team profile](02-team-profile)（团队组建）
@@ -13,8 +14,8 @@
 
 | 学号     | 姓名         | 角色                             | 总工作量 |
 | -------- | ------------ | -------------------------------- | -------- |
-| 15331265 | jiaxin96     | 项目经理、js工程师、后台架构     | 22.5%    |
-| 15331249 | YoshPark     | js工程师、产品经理、DBA          | 22.5%    |
+| 15331265 | jiaxin96     | 项目经理、js工程师、后台架构     | 25%    |
+| 15331249 | YoshPark     | js工程师、产品经理、DBA          | 20%    |
 | 15331211 | liuby26      | 后端工程师                       | 15%      |
 | 15331228 | luguanxing   | UI/UX设计师、前端工程师          | 15%      |
 | 15331215 | Ken-reddevil | 前端工程师                       | 10%      |
@@ -74,3 +75,5 @@
 * X3 **Final Report**
     - [15331249-Yoshipark-Final Report](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/FinalProject/15331249_FinalReport.pdf)
     - [15331265-jiaxin96-Final Report](./FinalProject/15331265.pdf)
+    - [15331215-Ken-reddevil-Final Report](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/FinalProject/15331215_FinalReport.pdf)
+    - [15331228-luguanxing-Final Report](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/FinalProject/15331228_FinalReport.pdf)
