@@ -114,3 +114,4 @@
 - [Ken-reddevil- Vuejs技术报告](https://blog.csdn.net/weixin_39629939/article/details/79949049)
 - [luguanxing- 小程序技术报告](http://luguanxing.online:8080/blog/blogtype/%E5%B0%8F%E7%A8%8B%E5%BA%8F.html)
 - [15331203-Arim-Lin-Tensorflow技术报告](https://blog.csdn.net/qq_40143611/article/details/79964127)
+- [15331211-liuby26-排队算法技术报告](https://blog.csdn.net/qq_33575106/article/details/80904871)
