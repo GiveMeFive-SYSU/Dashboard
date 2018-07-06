@@ -56,13 +56,13 @@
 | 15331203 | Arim-Lin     | 测试                             | 5%       |
 
 
-## 3 [软件需求规格说明书](doc\softDocs\软件需求规格说明书.md)
+## 3 [软件需求规格说明书](./doc/softDocs/软件需求规格说明书.md)
 
-## 4 [软件设计文档](doc\softDocs\软件设计文档.md)
+## 4 [软件设计文档](./doc/softDocs/软件设计文档.md)
 
-## 5 [用户手册](doc\softDocs\用户手册.md)
+## 5 [用户手册](./doc/softDocs/用户手册.md)
 
-## 6 [安装部署说明](doc\softDocs\安装部署说明.md)
+## 6 [安装部署说明](./doc/softDocs/安装部署说明.md)
 
 
 - 7.3  API 设计
