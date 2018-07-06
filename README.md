@@ -36,6 +36,7 @@
         - [15331028-cxdris-菜系管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/Cuisine_Management.png)
         - [15331028-cxdris-菜品管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/Dish_Management.png)
         - [15331215-Ken-reddevil-桌位管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/table_management.png)
+        - [15331211-liuby26-店铺名修改](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/15331211-liuby26-更改店铺名.png)
     - [6.6 Supplementary Requirements（补充需求）](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/supplementary_requirements/readme.md)
 * 7、Design（设计）
 -    - 7.1 UI design
