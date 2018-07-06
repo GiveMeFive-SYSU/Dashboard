@@ -5,8 +5,8 @@
 >> 本项目旨在利用小程序平台实现一个前后端分离的扫码点餐小程序。
 ---
 
-## 1.1 任务发布
-- [项目进度发布和成员工作情况](https://givemefive-sysu.github.io/Dashboard/)
+## 1.1 项目主页
+- [项目主页GItPage](https://givemefive-sysu.github.io/Dashboard/)
 ---
 
 
