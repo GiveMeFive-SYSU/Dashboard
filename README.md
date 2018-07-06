@@ -36,9 +36,7 @@
         - [15331028-cxdris-菜系管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/Cuisine_Management.png)
         - [15331028-cxdris-菜品管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/Dish_Management.png)
         - [15331215-Ken-reddevil-桌位管理](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/system_sequence_diagram/table_management.png)
-    - 6.6 Supplementary Requirements（补充需求）
-        - * 点餐的时候需要添加食物备注
-        - * 底部添加广告栏
+    - [6.6 Supplementary Requirements（补充需求）](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/supplementary_requirements/readme.md)
 * 7、Design（设计）
 -    - 7.1 UI design
         - [UI设计](./UI/UI.pdf)
@@ -78,3 +76,5 @@
     - [15331265-jiaxin96-Final Report](./FinalProject/15331265.pdf)
     - [15331215-Ken-reddevil-Final Report](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/FinalProject/15331215_FinalReport.pdf)
     - [15331228-luguanxing-Final Report](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/FinalProject/15331228_FinalReport.pdf)
+    - [15331028-cxdris-Final Report](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/FinalProject/15331028_FinalReport.pdf)
+    - [15331211-liuby-Final Report](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/FinalProject/15331211_FinalReport.pdf)
