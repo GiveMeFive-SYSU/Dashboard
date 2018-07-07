@@ -1,4 +1,4 @@
-﻿﻿# 扫码点餐项目主页
+﻿# 扫码点餐项目主页
 # [](#TOC)目录
 
 
@@ -44,7 +44,7 @@
 -    - 7.2 Database design
         - 7.2.1 [用户及权限系统数据库设计](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/Database_design.png)
         - 7.2.2 [XX子系统数据课设计](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/Database_design.sql)
-        - 7.2.x 第三方数据评审结果
+        - [7.2.x 第三方数据评审结果](https://github.com/GiveMeFive-SYSU/Dashboard/issues/2)
             - [有鱼记账APP业务描述](./doc/ModelingPractice/XX1-有鱼记账APP业务描述.pdf)
             - [15331265-jiaxin96](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/midTest/rjx.pdf)
             - [15331249-Yoshipark](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/midTest/pyx.pdf)
