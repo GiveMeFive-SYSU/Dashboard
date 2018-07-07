@@ -1,4 +1,4 @@
-# Dashboard
+﻿# Dashboard
 
 ## 1 About
 
@@ -53,10 +53,3 @@
 ## 5 [用户手册](./doc/softDocs/用户手册.md)
 
 ## 6 [安装部署说明](./doc/softDocs/安装部署说明.md)
-
-
-- 7.3  API 设计
-    - [点餐API使用样例说明](https://github.com/GiveMeFive-SYSU/xiaoerBackEnd/blob/master/doc/API.pdf)
-- 7.4 Software Architecture Document
-    - [软件架构文档](./doc/软件架构文档.pdf)
-
