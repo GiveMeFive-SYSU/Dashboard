@@ -52,7 +52,8 @@
         - [点餐API使用样例说明](https://github.com/GiveMeFive-SYSU/xiaoerBackEnd/blob/master/doc/API.pdf)
 -    - [7.4 Software Architecture Document](https://github.com/GiveMeFive-SYSU/Dashboard/tree/master/doc/软件架构文档.pdf)
 -    - 7.5 Usecase design
-         - 7.5.1 **xx case design**
+         - [ECB类图](https://github.com/GiveMeFive-SYSU/Dashboard/blob/master/doc/ECB%E7%B1%BB%E5%9B%BE.png)
+         - [ECB顺序图](https://github.com/GiveMeFive-SYSU/Dashboard/blob/master/doc/ECB%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
 * 8、生产规范与指南
 -    - 8.1 前后端代码规范
         - [js 开发代码规范](./doc/codingDoc/readme.md)
